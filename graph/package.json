@@ -1,0 +1,12 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "nanoid": "^4.0.0"
+  }
+}
